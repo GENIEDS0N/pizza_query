@@ -8,4 +8,8 @@ from silver.pizza_query.pedido --da tabela silver.pizza_query.pedido
 
 -- COMMAND ----------
 
+select 'Hola Mundo again'
+
+-- COMMAND ----------
+
 
